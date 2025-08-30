@@ -95,7 +95,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <li><a href="../brands/index.php">Brands</a></li>
             <li><a href="../categories/index.php">Categories</a></li>
             <li><a href="../items/index.php">Items</a></li>
-            <li><a href="../auth/logout.php">Logout</a></li>
+            <li><a href="../dashboard.php">Admin Dashboard</a></li>
         </ul>
     </nav>
     <main class="content-area">
